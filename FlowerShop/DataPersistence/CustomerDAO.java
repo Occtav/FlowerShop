@@ -1,6 +1,6 @@
 package FlowerShop.DataPersistence;
 
-import FlowerShop.Blueprints.Customer;
+import FlowerShop.Models.Customer;
 
 import java.sql.*;
 import java.util.ArrayList;

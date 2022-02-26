@@ -1,6 +1,6 @@
 package FlowerShop.DataPersistence;
 
-import FlowerShop.Blueprints.FlowerShopOrder;
+import FlowerShop.Models.FlowerShopOrder;
 
 import java.sql.*;
 import java.util.HashMap;

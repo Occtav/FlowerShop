@@ -1,6 +1,6 @@
-package FlowerShop.Blueprints;
+package FlowerShop.Models;
 
-import FlowerShop.Blueprints.Items.ShoppingItem;
+import FlowerShop.Models.Items.ShoppingItem;
 
 import java.util.List;
 

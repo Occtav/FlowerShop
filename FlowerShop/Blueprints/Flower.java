@@ -1,4 +1,4 @@
-package FlowerShop.Blueprints;
+package FlowerShop.Models;
 
 import java.util.Objects;
 

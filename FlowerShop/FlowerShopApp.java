@@ -1,9 +1,9 @@
 package FlowerShop;
 
-import FlowerShop.Blueprints.*;
-import FlowerShop.Blueprints.Items.BucketItem;
-import FlowerShop.Blueprints.Items.FlowerItem;
-import FlowerShop.Blueprints.Items.ShoppingItem;
+import FlowerShop.Models.*;
+import FlowerShop.Models.Items.BucketItem;
+import FlowerShop.Models.Items.FlowerItem;
+import FlowerShop.Models.Items.ShoppingItem;
 import FlowerShop.DataPersistence.CustomerDAO;
 import FlowerShop.DataPersistence.FlowerShopOrderDAO;
 import FlowerShop.DataPersistence.FlowersDAO;

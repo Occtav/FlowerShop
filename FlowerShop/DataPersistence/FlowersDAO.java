@@ -1,8 +1,8 @@
 package FlowerShop.DataPersistence;
 
-import FlowerShop.Blueprints.Flower;
-import FlowerShop.Blueprints.Items.FlowerItem;
-import FlowerShop.Blueprints.Seasons;
+import FlowerShop.Models.Flower;
+import FlowerShop.Models.Items.FlowerItem;
+import FlowerShop.Models.Seasons;
 
 import java.sql.*;
 import java.util.ArrayList;

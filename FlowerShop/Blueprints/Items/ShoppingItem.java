@@ -1,4 +1,4 @@
-package FlowerShop.Blueprints.Items;
+package FlowerShop.Models.Items;
 
 public interface ShoppingItem {
     int getQuantity();

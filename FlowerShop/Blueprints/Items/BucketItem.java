@@ -1,7 +1,7 @@
-package FlowerShop.Blueprints.Items;
+package FlowerShop.Models.Items;
 
-import FlowerShop.Blueprints.Bucket;
-import FlowerShop.Blueprints.Flower;
+import FlowerShop.Models.Bucket;
+import FlowerShop.Models.Flower;
 
 public class BucketItem implements ShoppingItem {
 

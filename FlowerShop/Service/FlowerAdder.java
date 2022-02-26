@@ -1,7 +1,7 @@
 package FlowerShop.Service;
 
-import FlowerShop.Blueprints.Flower;
-import FlowerShop.Blueprints.Items.FlowerItem;
+import FlowerShop.Models.Flower;
+import FlowerShop.Models.Items.FlowerItem;
 import FlowerShop.DataPersistence.FlowersDAO;
 
 import java.util.List;

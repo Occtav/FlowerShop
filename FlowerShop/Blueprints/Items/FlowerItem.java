@@ -1,6 +1,6 @@
-package FlowerShop.Blueprints.Items;
+package FlowerShop.Models.Items;
 
-import FlowerShop.Blueprints.Flower;
+import FlowerShop.Models.Flower;
 
 public class FlowerItem implements ShoppingItem {
 

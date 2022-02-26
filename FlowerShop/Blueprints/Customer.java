@@ -1,4 +1,4 @@
-package FlowerShop.Blueprints;
+package FlowerShop.Models;
 
 public class Customer {
     private long id;

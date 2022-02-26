@@ -1,7 +1,7 @@
 package FlowerShop.Service;
 
-import FlowerShop.Blueprints.Bucket;
-import FlowerShop.Blueprints.Flower;
+import FlowerShop.Models.Bucket;
+import FlowerShop.Models.Flower;
 
 import java.util.ArrayList;
 import java.util.List;
